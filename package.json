@@ -8,7 +8,7 @@
     "dev": "nodemon src/app.js"
   },
   "keywords": [],
-  "author": "Phirathat Jittieng",
+  "author": "Chakorn Kongprasom",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.1",

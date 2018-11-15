@@ -33,9 +33,9 @@ app.set('view engine', 'ejs')
 //ejs -default route
 app.get('/', (req, res) => {
     res.render('index', {
-        name: 'Phirathat',
+        name: 'Chakorn',
         department: 'COE',
-        id: 5835512090
+        id: 5635512149
 
     })
 })
